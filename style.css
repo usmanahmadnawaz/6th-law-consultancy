@@ -1,0 +1,152 @@
+@font-face{
+    font-family: Cormorantgaramond-light !important;
+    src: url(CormorantGaramond-Light.ttf) !important;
+    
+}
+.slidertext{
+    font-family: metalmania-regular !important;
+    src: url(MetalMania-Regular.ttf) !important;
+}
+.slidertext2{
+    font-family: Cormorantgaramond-light !important;
+    src: url(CormorantGaramond-Light.ttf) !important;
+    font-weight: lighter;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+ul li{
+    list-style: none;
+
+}
+
+a {
+    text-decoration: none;
+}
+.topbar{
+    
+    background-color:rgb(229, 226, 226);
+   
+    
+}
+
+a:hover{
+    color: #BD6F29 !important;
+}
+
+.button {
+    background-color:;
+    border: 2px solid #BD6F29 ;
+    color: #BD6F29;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none !important;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-left: 30px;
+  }
+
+  .button:hover{
+      background-color: #BD6F29;
+      color: black !important;
+  }
+
+  .coro {
+    background-color:;
+    border: 2px solid #BD6F29 ;
+    color: #BD6F29;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none !important;
+    display: inline-block;
+    font-size: 16px;
+    margin: 8px 4px !important;
+    cursor: pointer;
+    margin-left: 100px;
+    
+   
+ 
+  }
+
+  .coro:hover{
+      background-color: #BD6F29;
+      color: black !important;
+  }
+
+
+#box1{
+    border: 2px solid #BD6F29 ;
+    box-shadow: 2px 2px 2px 2px rgb(199, 198, 198) ;
+    margin-top: 50px;
+    height: 250px;
+    width: -50px;
+    background-color: white;
+    
+}
+
+#box1icon{
+    font-size: 50px;
+    margin-left: 100px;
+    
+    color: #BD6F29 ;
+}
+
+
+#boxtext{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #474749;
+    font-weight: bolder;
+}
+
+#intro{
+    border: solid #BD6F29;
+    padding: 50px 60px;
+    box-shadow: 2px 5px 2px 2px rgb(199, 198, 198) ;
+    margin-left: 30px;
+}
+
+#immg{
+    border: transparent #BD6F29;
+    background-color: #dbdbddd5;
+}
+
+
+#page3 .slidertext{
+    font-family: metalmania-regular !important;
+    src: url(MetalMania-Regular.ttf) !important;
+
+}
+
+
+#page4 .button {
+    background-color:;
+    border: 2px solid #BD6F29 ;
+    color: #BD6F29;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none !important;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-left: 30px;
+  }
+
+  .button:hover{
+      background-color: #BD6F29;
+      color: black !important;
+  }
+
+
